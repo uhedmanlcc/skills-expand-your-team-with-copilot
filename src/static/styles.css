@@ -690,3 +690,8 @@ footer {
 [data-theme="dark"] .activity-tag {
   filter: brightness(0.8);
 }
+
+[data-theme="dark"] input {
+  background-color: var(--surface);
+  color: var(--text-primary);
+}
